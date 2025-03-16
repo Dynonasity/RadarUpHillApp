@@ -1,0 +1,15 @@
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\bin\Debug\RadarUpHill.exe.config
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\bin\Debug\RadarUpHill.exe
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\bin\Debug\RadarUpHill.pdb
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\RadarUpHill.csproj.AssemblyReference.cache
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\MainWindow.g.cs
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\App.g.cs
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\RadarUpHill_MarkupCompile.cache
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\RadarUpHill_MarkupCompile.lref
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\MainWindow.baml
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\RadarUpHill.g.resources
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\RadarUpHill.Properties.Resources.resources
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\RadarUpHill.csproj.GenerateResource.cache
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\RadarUpHill.csproj.CoreCompileInputs.cache
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\RadarUpHill.exe
+C:\Users\TRexR\source\repos\RadarUpHill\RadarUpHill\obj\Debug\RadarUpHill.pdb
